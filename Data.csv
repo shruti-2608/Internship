@@ -1,0 +1,345 @@
+Name,Gender,Department,Year,Teacher's Feedback,access,tests,tests_grade,exam,project,project_grade,assignments,result_points,result_grade,graduate,year,acad_year
+Mayuresh Pitale,Male,Computer Engineering,Second Year,Good student,1256,57,A,19,91.54,A,40,189.92,A,1,2019,2019/2020
+Vijeta Nayak ,Female,Computer Engineering,Fourth Year,Good leadership skills,985,42.87,B,19,75.96,A,13.7,189.43,A,1,2017,2017/2018
+Ojas Nandkumar Thale,Male,Information Technology,Second Year,Hard working,1455,54.5,A,16,96.79,A,40,188.91,A,1,2019,2019/2020
+Anush Madathumkara,Male,Computer Engineering,First Year,Responsible,998,54.5,A,16,93.36,A,40,186.85,A,1,2019,2019/2020
+Parag Iyyani ,Male,Computer Engineering,Second Year,Good leadership skills,1347,55,A,16,92.86,A,39,186.38,A,1,2019,2019/2020
+Akshay Chakkungal,Male,Computer Engineering,Second Year,Disciplined and hard working,1000,54.5,A,16,94.55,A,37,184.56,A,1,2019,2019/2020
+Shradha,Female,Information Technology,Second Year,Good but can be better,1216,51,B,13,98.77,A,40,184.26,A,1,2019,2019/2020
+TEJAS AVINASH PATIL,Male,Information Technology,Second Year,Good leadership skills,737,51,B,15,96.7,A,40,183.02,A,1,2019,2019/2020
+Prem Thamarakshan,Male,Information Technology,Second Year,Good but can be better,782,56,A,20,93.17,A,32,181.23,A,1,2019,2019/2020
+Kaustubh Nitin Deshmukh,Male,Mechanical Engineering,Second Year,Responsible,799,52,B,14,90.93,A,39,180.22,A,1,2019,2019/2020
+Neha Mahesh Patil,Female,Information Technology,Second Year,Excellent performance,1506,49,C,17,97.54,A,40,180.19,A,1,2019,2019/2020
+Sonali patil,Female,Information Technology,Second Year,Excellent performance,776,55.5,A,17,89.18,A,24,175.16,A,1,2018,2018/2019
+Shraddha pandey,Female,Information Technology,Second Year,Good leadership skills,699,55.5,A,19,87.82,A,23,173.57,A,1,2018,2018/2019
+Gitanjali Singh,Female,Information Technology,Second Year,willingness to put effort,615,54.5,A,19,86.64,A,24,171.96,A,1,2018,2018/2019
+CHIRAG BHOIR,Male,Mechanical Engineering,Second Year,Disciplined and hard working,1065,52.5,B,15,90,A,24,170.2,A,1,2018,2018/2019
+Avdhoot Mane,Male,Information Technology,Second Year,Responsible,482,53.5,B,17,85.23,A,24,169.55,A,1,2018,2018/2019
+Prachi Satbhaya,Female,Information Technology,Second Year,Willingness to Put Forth Effort,459,56.5,A,19,84.41,A,19,169.01,A,1,2018,2018/2019
+Saad shaikh,Male,Information Technology,Second Year,Good but can be better,592,54,A,16,87.34,A,21,168.29,A,1,2018,2018/2019
+Prathamesh ganesh patil,Male,Automobile Engineering,First Year,Willingness to Put Forth Effort,779,51.5,B,16,88.41,A,24,167.27,A,1,2018,2018/2019
+Mansi Nimje,Female,Information Technology,Second Year,Excellent performance,619,38.84,E,20,70.15,C,14.86,190,A,1,2016,2016/2017
+Nikita patil,Female,Electronics Engineering,First Year,Disciplined and hard working,738,43.33,D,19,81.09,A,12.36,190,A,1,2016,2016/2017
+Krutika Parvatikar ,Female,Information Technology,Second Year,Willingness to Put Forth Effort,2392,38.44,E,16,77.7,A,14.59,190,A,1,2016,2016/2017
+Nayan Shelke,Male,Mechanical Engineering,Second Year,Good leadership skills,595,49.07,C,20,82.55,A,15.31,190,A,1,2016,2016/2017
+Suraj vijay Patil,Male,Mechanical Engineering,Second Year,Excellent performance,424,37.4,E,20,66.54,C,11.8,190,A,1,2016,2016/2017
+Kajal Rajendra Borhade,Female,Information Technology,Second Year,Good but can be better,1047,48.84,C,18,77.44,A,14.4,190,A,1,2016,2016/2017
+Karan nipurte,Male,Computer Engineering,First Year,Disciplined and hard working,930,47.33,C,18,77.44,A,14.5,190,A,1,2016,2016/2017
+Akshay Puranjay Shetty,Male,Information Technology,Second Year,Respectful to Authority and Others,1275,45.33,C,20,60.4,D,11.48,190,A,1,2016,2016/2017
+Pooja zagade ,Female,Information Technology,Second Year,Good leadership skills,349,0,A,0,0,FX,14,22,A,1,2018,2018/2019
+Mustafa Shaikh,Male,Information Technology,Second Year,Respectful to Authority and Others,697,41.07,C,19,75.84,A,14.4,186.83,B,1,2017,2017/2018
+Tejas patil,Male,Mechanical Engineering,First Year,Excellent performance,359,40.7,C,19,76.2,A,14.5,186.35,B,1,2017,2017/2018
+Satish,Male,Computer Engineering,Second Year,Disciplined and hard working,1085,42.53,B,16,73.94,A,11.5,184.35,B,1,2017,2017/2018
+Wakchaure Reeya Sunil,Female,Information Technology,Second Year,Responsible,457,36.48,D,18,79.52,A,12.7,182.57,B,1,2017,2017/2018
+Amruta Ankush Kshirsagar,Female,Information Technology,Second Year,Respectful to Authority and Others,620,37,D,19,77.13,A,11.6,180.89,B,1,2017,2017/2018
+Surajrao shelavlekr,Male,Mechanical Engineering,Second Year,Willingness to Put Forth Effort,701,40.43,C,18,75.88,A,13.4,180.65,B,1,2017,2017/2018
+Sharan Thanneeru,Male,Information Technology,Second Year,Excellent performance,816,34.57,D,18,79.19,A,12.7,179.99,B,1,2017,2017/2018
+Nilesh yadav,Male,Information Technology,Second Year,Disciplined and hard working,969,52,B,17,88.59,B,40,179.82,B,1,2019,2019/2020
+Shrikant Zanzane,Male,Computer Engineering,Second Year,Willingness to Put Forth Effort,841,49,C,16,95.74,A,40,179.11,B,1,2019,2019/2020
+Tejas Ranjit,Male,Automobile Engineering,Second Year,Good but can be better,945,49.5,C,11,93.94,A,40,178.86,B,1,2019,2019/2020
+Nilesh bhau bhere,Male,Mechanical Engineering,Second Year,Good leadership skills,2089,49,C,16,94.56,A,40,178.4,B,1,2019,2019/2020
+Ankita Dagadu Bele,Female,Information Technology,Second Year,Respectful to Authority and Others,912,48,C,14,96.59,A,40,177.96,B,1,2019,2019/2020
+Faisal shaikh,Male,Information Technology,Second Year,Respectful to Authority and Others,680,49,C,15,93.44,A,40,177.73,B,1,2019,2019/2020
+Avdhut Ashok Ghatage,Female,Mechanical Engineering,Second Year,Respectful to Authority and Others,1537,46.5,C,15,97.91,A,40,176.25,B,1,2019,2019/2020
+Priyanka Gupta ,Female,Information Technology,Second Year,Excellent performance,615,40.23,C,17,77.9,A,11.7,174.62,B,1,2017,2017/2018
+Sahil Yadav,Male,Information Technology,Second Year,Disciplined and hard working,1757,49,C,14,88.06,B,40,174.5,B,1,2019,2019/2020
+Pushpak Nitin Bhoge,Male,Electronics Engineering,Second Year,Willingness to Put Forth Effort,616,50,B,14,99.48,A,31,174.02,B,1,2019,2019/2020
+Wahab memon,Male,Information Technology,Fourth Year,Solid Social and Emotional Skills,630,45,C,16,96.08,A,39,171.65,B,1,2019,2019/2020
+Amulya Poojari ,Female,Computer Engineering,Fourth Year,Self-Motivated,1081,51,B,17,85.89,B,35,171.53,B,1,2019,2019/2020
+Sujitha Sudevan ,Female,Computer Engineering,Fourth Year,Excellent performance,1054,46,C,16,90.79,A,40,171.14,B,1,2019,2019/2020
+Payal Tiwari ,Female,Computer Engineering,Fourth Year,Good but can be better,674,45,C,15,92.98,A,40,170.79,B,1,2019,2019/2020
+Sushmita Manche,Female,Computer Engineering,Fourth Year,Self-Motivated,1354,50,B,17,90.03,A,33,170.35,B,1,2019,2019/2020
+Uzair Pawaskar,Male,Information Technology,Second Year,Good leadership skills,978,45,C,12,98.13,A,36,169.88,B,1,2019,2019/2020
+Trishala Pawar,Female,Electronics And Telecommunication Engineering,Fourth Year,Solid Social and Emotional Skills,849,49,C,16,79.79,C,40,169.54,B,1,2019,2019/2020
+Shailey Kadam,Female,Computer Engineering,Fourth Year,Excellent performance,712,46,C,14,88.02,B,40,169.48,B,1,2019,2019/2020
+Komal ,Female,Computer Engineering,Fourth Year,Disciplined and hard working,1056,50,B,14,90.99,A,31,168.93,B,1,2019,2019/2020
+Shivani,Female,Computer Engineering,Fourth Year,Willingness to Put Forth Effort,2135,45,C,14,89.1,B,39,167.46,B,1,2019,2019/2020
+Sandnya Patil,Female,Computer Engineering,Second Year,Responsible,936,45.5,C,13,90.85,A,37,167.34,B,1,2019,2019/2020
+Gaurav Patil ,Male,Information Technology,Second Year,Respectful to Authority and Others,967,42.5,D,14,93.85,A,40,167.14,B,1,2019,2019/2020
+Dipti patil,Female,Information Technology,Second Year,Willingness to Put Forth Effort,426,53,B,15,87,A,20,165.14,B,1,2018,2018/2019
+Kevin,Male,Computer Engineering,Fourth Year,Excellent performance,442,49.5,C,17,84.14,A,24,161.98,B,1,2018,2018/2019
+Aishwarya,Female,Computer Engineering,Fourth Year,Good but can be better,696,53.82,B,10,75.13,B,15.42,161.4,B,1,2016,2016/2017
+Praveen Pandey ,Male,Computer Engineering,Fourth Year,Respectful to Authority and Others,697,48,C,17,86.8,A,24,160.45,B,1,2018,2018/2019
+Rachana Vannal,Female,Information Technology,Second Year,Disciplined and hard working,485,48,C,14,88.98,A,23,160.3,B,1,2018,2018/2019
+Rajeena Rahim,Female,Information Technology,Fourth Year,Self-Motivated,973,46.56,C,10,80.66,A,14.13,159.71,B,1,2016,2016/2017
+Sahil Tanawade,Male,Electronics And Telecommunication Engineering,Second Year,Respectful to Authority and Others,513,47.5,C,15,85.77,A,24,158.5,B,1,2018,2018/2019
+Atharv Phadnis,Male,Information Technology,Second Year,Respectful to Authority and Others,561,47.5,C,14,85.16,A,24,158.44,B,1,2018,2018/2019
+Shinu,Male,Mechanical Engineering,Second Year,Good leadership skills,1084,50.5,B,20,71.8,C,24,158.15,B,1,2018,2018/2019
+Vaishnavi sanjeeva  shetty ,Female,Information Technology,Second Year,Self-Motivated,1053,50,B,16,66.27,D,24,154.69,B,1,2018,2018/2019
+Mayur Jayawant Kachare,Male,Information Technology,Second Year,Respectful to Authority and Others,925,45,C,16,85.98,A,24,154.55,B,1,2018,2018/2019
+Nikita  Maruti Tikone,Female,Information Technology,Second Year,Willingness to Put Forth Effort,515,47.5,C,13,75.14,B,24,154.16,B,1,2018,2018/2019
+Nikita Maruti Tikone,Female,Information Technology,Second Year,Good but can be better,466,47.5,C,14,84.36,A,20,153.81,B,1,2018,2018/2019
+Atharva Pawar,Male,Information Technology,Second Year,Excellent performance,498,47.5,C,20,73.3,C,24,153.32,B,1,2018,2018/2019
+Nikita Maruti,Female,Information Technology,Second Year,Self-Motivated,275,53,B,17,84.27,A,16,150.35,B,1,2018,2018/2019
+Misbah khan,Female,Computer Engineering,Fourth Year,Good leadership skills,397,54.5,A,18,69.34,C,15,144.66,B,1,2018,2018/2019
+Nikhil,Male,Computer Engineering,Second Year,Respectful to Authority and Others,172,53.5,B,14,0,FX,2,52.05,C,1,2018,2018/2019
+Parth Bapat ,Male,Electronics And Telecommunication Engineering,Second Year,Respectful to Authority and Others,1470,34.82,D,17,73.78,A,14,172.3,C,1,2017,2017/2018
+Rushikesh Mhatre,Male,Electronics And Telecommunication Engineering,Second Year,Willingness to Put Forth Effort,768,32.96,E,16,80,A,11.7,168.5,C,1,2017,2017/2018
+Abhiraj Sutar,Male,Electronics Engineering,Second Year,Excellent performance,649,33.5,E,17,76.32,A,9.7,168.1,C,1,2017,2017/2018
+Tanmay,Male,Computer Engineering,Second Year,Disciplined and hard working,625,31.8,E,17,76.53,A,12,168.07,C,1,2017,2017/2018
+Mitesh patil,Male,Computer Engineering,Second Year,Good but can be better,598,39.9,C,15,76.65,A,8.7,167.46,C,1,2017,2017/2018
+Pooja Bist,Female,Computer Engineering,Fourth Year,Eagerness to Learn,623,34.4,D,16,77.01,A,11.7,167.01,C,1,2017,2017/2018
+Sanket Kulkarni,Male,Computer Engineering,Second Year,Self-Motivated,457,39.63,C,15,77.98,A,7.7,166.81,C,1,2017,2017/2018
+Mehul Nachankar,Male,Electronics Engineering,First Year,Respectful to Authority and Others,843,35.78,D,17,73.58,A,9.4,165.86,C,1,2017,2017/2018
+Shantanu Bhagwat,Male,Mechanical Engineering,Third Year,Responsible,433,36.3,D,18,67.88,B,9.7,165.2,C,1,2017,2017/2018
+AGARWAL VIJAY,Male,Mechanical Engineering,Second Year,Eagerness to Learn,723,28.67,FX,20,67.43,B,11.9,165.08,C,1,2017,2017/2018
+Bhakti Prabhu,Female,Electronics And Telecommunication Engineering,Second Year,Willingness to Put Forth Effort,583,35.8,D,17,68.85,B,11.4,164.11,C,1,2017,2017/2018
+Advait patil,Male,Electronics And Telecommunication Engineering,Second Year,Excellent performance,577,30.53,E,18,69.7,B,13.5,164.04,C,1,2017,2017/2018
+Anoop .R.Pillai,Male,Computer Engineering,Second Year,Self-Motivated,411,37.13,D,16,71.84,B,9.5,164.02,C,1,2017,2017/2018
+Anuja Gundecha,Female,Electronics Engineering,Second Year,Disciplined and hard working,696,35.07,D,16,70.12,B,13.2,163.99,C,1,2017,2017/2018
+Prakash Raj,Male,Computer Engineering,Fourth Year,Eagerness to Learn,1085,43,D,13,94.18,A,35,163.17,C,1,2019,2019/2020
+Abhishek,Male,Electronics And Telecommunication Engineering,Second Year,Self-Motivated,504,38.4,C,17,68.48,B,9.1,162.88,C,1,2017,2017/2018
+Shailesh kotian,Male,Computer Engineering,Fourth Year,Respectful to Authority and Others,592,31.75,E,17,73.33,A,10.27,162.43,C,1,2017,2017/2018
+Vignesh,Male,Information Technology,Second Year,Good leadership skills,614,35.7,D,19,71.27,B,8.6,162.23,C,1,2017,2017/2018
+Aniket Patil,Male,Mechatronics Engineering,Second Year,Eagerness to Learn,1354,41.5,D,14,88.4,B,40,162.21,C,1,2019,2019/2020
+Swaroop Pillai,Male,Mechanical Engineering,Second Year,Willingness to Put Forth Effort,383,35.8,D,17,70.87,B,7.9,162.03,C,1,2017,2017/2018
+Pradyumna Marathe,Male,Electronics And Telecommunication Engineering,Second Year,Eagerness to Learn,469,31.02,E,18,69.49,B,9.7,161.98,C,1,2017,2017/2018
+SHIVAM PATIL,Male,Computer Engineering,Second Year,Self-Motivated,1197,45,C,15,89.88,B,33,161.93,C,1,2019,2019/2020
+Shubham gundawar,Male,Computer Engineering,Second Year,Willingness to Put Forth Effort,1153,32.26,E,16,77.13,A,10.4,161.3,C,1,2017,2017/2018
+Kunal,Male,Computer Engineering,Second Year,Respectful to Authority and Others,708,43.67,B,15,68,B,9.6,160.77,C,1,2017,2017/2018
+Vrushabh urkunde,Male,Electronics And Telecommunication Engineering,Second Year,Good but can be better,1664,43,D,15,80.63,C,40,160.05,C,1,2019,2019/2020
+Palve Priyanka ,Female,Computer Engineering,Second Year,Respectful to Authority and Others,521,34.65,D,17,70.75,B,7.9,159.61,C,1,2017,2017/2018
+Anagha,Female,Electronics And Telecommunication Engineering,Second Year,Excellent performance,682,31.48,E,17,73.62,A,5.9,159.04,C,1,2017,2017/2018
+Anagha,Female,Electronics And Telecommunication Engineering,Second Year,Disciplined and hard working,736,31.69,E,17,72.2,A,6.1,158.22,C,1,2017,2017/2018
+Aishwarya Gailwad,Female,Computer Engineering,Second Year,Eagerness to Learn,472,36.87,D,16,70.59,B,7.4,158.08,C,1,2017,2017/2018
+Snehal Sanjay Giri ,Female,Computer Engineering,Second Year,Solid Social and Emotional Skills,1162,39,E,14,89.41,B,37,155.65,C,1,2019,2019/2020
+Akshata,Female,Mechanical Engineering,Second Year,Eagerness to Learn,680,43.64,D,10,78.47,A,13.17,154.65,C,1,2016,2016/2017
+Rishita Jaiswal,Female,Electronics And Telecommunication Engineering,First Year,Willingness to Put Forth Effort,893,40,E,14,89.75,B,34,154.52,C,1,2019,2019/2020
+Sakshi Rathi,Female,Electronics And Telecommunication Engineering,First Year,Good leadership skills,1118,42,D,9,82.54,C,35,154.52,C,1,2019,2019/2020
+Pragya Korpal ,Female,Information Technology,First Year,Respectful to Authority and Others,583,40.82,D,10,82.17,A,11.74,154.13,C,1,2016,2016/2017
+Atharva Shahane,Male,Computer Engineering,Second Year,Responsible,777,40.13,E,9,81.48,A,15.41,154.02,C,1,2016,2016/2017
+Nupoor Rajendra Maujkar,Female,Electronics Engineering,First Year,Eagerness to Learn,1021,41,D,5,85.36,B,34,153.55,C,1,2019,2019/2020
+Pradumna,Male,Information Technology,Second Year,Good but can be better,810,43.33,D,10,78.95,A,12.3,152.95,C,1,2016,2016/2017
+Shruti Bansod,Female,Electronics And Telecommunication Engineering,First Year,Solid Social and Emotional Skills,464,48,C,15,84.61,A,18,152.54,C,1,2018,2018/2019
+Melvin Varghese,Male,Electronics Engineering,Second Year,Eagerness to Learn,556,47.5,C,18,86.8,A,18,152.06,C,1,2018,2018/2019
+Prajwal Poojary,Male,Automobile Engineering,Second Year,Excellent performance,815,44,D,0,91.21,A,24,152.06,C,1,2019,2019/2020
+Tanvi Chavan,Female,Computer Engineering,Fourth Year,Disciplined and hard working,520,47.5,C,13,71.8,C,23,151.48,C,1,2018,2018/2019
+Suyash Subodh Mandloi,Male,Mechatronics Engineering,Second Year,Self-Motivated,1039,50.91,B,6,82.17,A,12.81,150.77,C,1,2016,2016/2017
+Jaineel Shah,Male,Mechanical Engineering,First Year,Respectful to Authority and Others,1111,42.76,D,10,79.29,A,11.77,150.36,C,1,2016,2016/2017
+Minal Chudasama,Female,Information Technology,Second Year,Willingness to Put Forth Effort,496,48,C,15,84.34,A,16,150.12,C,1,2018,2018/2019
+Garima Yogesh Shukla,Female,Computer Engineering,Fourth Year,Excellent performance,941,44,D,16,80.32,B,24,150.03,C,1,2018,2018/2019
+Kaustubh Nitin Deshmukh,Male,Mechanical Engineering,Second Year,Self-Motivated,352,48,C,15,85.45,A,15,149.48,C,1,2018,2018/2019
+James bond,Male,Information Technology,Second Year,Solid Social and Emotional Skills,710,45.5,C,14,90,A,17,148.95,C,1,2018,2018/2019
+Rohail,Male,Computer Engineering,Second Year,Self-Motivated,659,44.87,D,10,73.37,B,13.23,148.76,C,1,2016,2016/2017
+Amaan Hakim,Male,Computer Engineering,Third Year,Solid Social and Emotional Skills,1265,44.53,D,9,77.66,A,9.63,148.4,C,1,2016,2016/2017
+Khan Arbaz,Male,Computer Engineering,Second Year,Excellent performance,676,47.07,C,10,70.06,C,12.36,148.36,C,1,2016,2016/2017
+Rohan,Male,Computer Engineering,Second Year,Good leadership skills,359,47,C,14,81.68,A,17,148.2,C,1,2018,2018/2019
+Ruturaj Atre,Male,Information Technology,Second Year,Respectful to Authority and Others,772,43.2,D,9,76.76,A,9.94,147.72,C,1,2016,2016/2017
+Tooba Kausar,Female,Computer Engineering,Second Year,Eagerness to Learn,379,43.5,D,12,78.95,B,23,147.41,C,1,2018,2018/2019
+Jayant uthale,Male,Information Technology,Second Year,Good but can be better,570,51,B,16,75.89,B,12,147.15,C,1,2018,2018/2019
+Natasha,Female,Computer Engineering,Second Year,Willingness to Put Forth Effort,475,39.16,E,10,74.35,B,13.31,146.87,C,1,2016,2016/2017
+Zarrin,Female,Information Technology,Second Year,Eagerness to Learn,487,36.22,E,10,76.59,A,13.45,146.72,C,1,2016,2016/2017
+siddharth Abhijeet Tulpule.,Male,Information Technology,Second Year,Disciplined and hard working,558,45.5,C,15,80.25,B,18,145.94,C,1,2018,2018/2019
+Dyanesh Sarawate.,Male,Electronics Engineering,Second Year,Solid Social and Emotional Skills,630,43.82,D,9,70.32,C,15.27,145.86,C,1,2016,2016/2017
+Shubham Ramesh Patil.,Male,Mechanical Engineering,First Year,Self-Motivated,498,44.5,D,15,87.55,A,16,145.15,C,1,2018,2018/2019
+Yash Ramesh Mhatre.,Male,Electronics And Telecommunication Engineering,First Year,Respectful to Authority and Others,558,45.64,C,11,66.41,C,12.5,144.97,C,1,2016,2016/2017
+Karan Ramesh Mhatre.,Male,Automobile Engineering,First Year,Responsible,501,41.56,D,10,75.38,B,8.5,143.41,C,1,2016,2016/2017
+Riddhi k sonkar,Female,Information Technology,Second Year,Solid Social and Emotional Skills,534,40,E,10,84.07,A,23,143.32,C,1,2018,2018/2019
+Akhil kumar,Male,Information Technology,Second Year,Willingness to Put Forth Effort,306,45.5,C,17,73.3,C,18,142.74,C,1,2018,2018/2019
+Patel Umar Faiz,Male,Information Technology,Second Year,Good leadership skills,863,38.5,E,10,84.61,A,24,141.96,C,1,2018,2018/2019
+Kumudini,Female,Computer Engineering,Second Year,Excellent performance,439,41.5,D,14,89.18,A,17,141.53,C,1,2018,2018/2019
+Pranjali gharat ,Female,Electronics And Telecommunication Engineering,Second Year,Solid Social and Emotional Skills,582,43.5,D,14,85.77,A,15,141.35,C,1,2018,2018/2019
+anchita lokhande,Female,Computer Engineering,Second Year,Eagerness to Learn,319,47,C,10,70.23,C,15,140.63,C,1,2018,2018/2019
+DEEPIKA DEEPAK PATIL ,Female,Computer Engineering,Second Year,Solid Social and Emotional Skills,305,44,D,15,79.57,B,16,140.56,C,1,2018,2018/2019
+Pradnya Bhoir,Female,Information Technology,Fourth Year,Responsible,303,42.5,D,15,84.07,A,16,139.87,C,1,2018,2018/2019
+Mandar Patil,Male,Computer Engineering,Second Year,Solid Social and Emotional Skills,384,43.42,D,20,69.46,C,10.75,201.92,D,1,2016,2016/2017
+Yadav Shweta Devram,Female,Computer Engineering,Fourth Year,Willingness to Put Forth Effort,666,29.73,FX,15,72.04,A,13.9,157.31,D,1,2017,2017/2018
+Nishchal,Male,Computer Engineering,Fourth Year,Excellent performance,375,29.62,FX,16,68.81,B,11.7,154.98,D,1,2017,2017/2018
+Aniket dabde,Male,Computer Engineering,Third Year,Good but can be better,668,31.47,E,17,68.04,B,8.4,154.54,D,1,2017,2017/2018
+Kunal vijay thakur,Male,Information Technology,Second Year,Good leadership skills,905,27.5,FX,15,74.63,A,11.7,152.45,D,1,2017,2017/2018
+Komal Bisht ,Female,Information Technology,Third Year,Solid Social and Emotional Skills,405,32.93,E,15,73.33,A,5.9,150.98,D,1,2017,2017/2018
+Riya Jadhav,Female,Information Technology,Third Year,Respectful to Authority and Others,500,32.52,E,14,74.06,A,6.3,150.05,D,1,2017,2017/2018
+Deepansh Chatutvedi,Male,Information Technology,Third Year,Solid Social and Emotional Skills,1941,39,E,7,74.98,D,40,149.99,D,1,2019,2019/2020
+Voval Jain,Male,Information Technology,Third Year,Willingness to Put Forth Effort,429,29.58,FX,17,61.49,C,10.4,149.97,D,1,2017,2017/2018
+Hariharan V,Male,Information Technology,Third Year,Respectful to Authority and Others,518,30.3,E,16,68.44,B,6.1,148.4,D,1,2017,2017/2018
+Akanksha Pandey ,Female,Information Technology,Third Year,Disciplined and hard working,779,39.5,E,15,95.6,A,25,148.2,D,1,2019,2019/2020
+Darshana Nair,Female,Information Technology,Third Year,Excellent performance,997,39,E,7,88.55,B,30,148.13,D,1,2019,2019/2020
+Ashish Panda,Male,Information Technology,Third Year,Good but can be better,1583,41.5,D,14,78.24,C,31,147.11,D,1,2019,2019/2020
+Zeel Rajput,Female,Computer Engineering,Third Year,Respectful to Authority and Others,1046,36.5,E,7,80.1,C,36,144.9,D,1,2019,2019/2020
+Devesh singh,Male,Electronics And Telecommunication Engineering,Fourth Year,Good but can be better,1311,39,E,8,91.14,A,25,144.68,D,1,2019,2019/2020
+Shrayesh Kanade,Male,Information Technology,Third Year,Willingness to Put Forth Effort,837,36.91,E,10,74.22,B,11.79,142.42,D,1,2016,2016/2017
+Prafulla Jagdish Mhatre,Male,Information Technology,Third Year,Responsible,403,38.31,E,10,72.89,B,12.14,142.37,D,1,2016,2016/2017
+Kalpaj Chaudhari,Male,Computer Engineering,Third Year,Excellent performance,512,38.53,E,11,67.4,C,14.68,142.11,D,1,2016,2016/2017
+Raza,Male,Information Technology,Second Year,Good leadership skills,1292,36,E,6,86.72,B,30,142.03,D,1,2019,2019/2020
+Minal Chudasama,Female,Information Technology,Second Year,Not attentive,575,40.51,E,9,71.93,B,12.58,141.1,D,1,2016,2016/2017
+Garima Yogesh Shukla,Female,Computer Engineering,Fourth Year,Does not follow my lecture,792,40.6,E,7,76.89,A,13.45,140.73,D,1,2016,2016/2017
+Kaustubh Nitin Deshmukh,Male,Mechanical Engineering,Second Year,Very talkative,519,39.07,E,10,68.04,C,13,139.88,D,1,2016,2016/2017
+James bond,Male,Information Technology,Second Year,Needs improvement,1043,35.31,FX,10,70.62,B,11.99,138.86,D,1,2016,2016/2017
+Rohail,Male,Computer Engineering,Second Year,Poor attendance,1167,29,FX,10,87.44,B,38,138.8,D,1,2019,2019/2020
+Amaan Hakim,Male,Computer Engineering,Third Year,Lagging Behind,942,35,FX,5,81.85,C,31,138.45,D,1,2019,2019/2020
+Khan Arbaz,Male,Computer Engineering,Second Year,Disappointed performance,957,37,E,12,69.37,D,35,138.29,D,1,2019,2019/2020
+Rohan,Male,Computer Engineering,Second Year,Poor attendance,528,54,A,6,68.86,C,9.37,137.79,D,1,2016,2016/2017
+Ruturaj Atre,Male,Information Technology,Second Year,Argues with teacher,898,42.69,D,7,63.62,D,12.5,137.36,D,1,2016,2016/2017
+Tooba Kausar,Female,Computer Engineering,Second Year,Bunk lectuer,910,37.84,E,9,71.39,B,9.3,137.14,D,1,2016,2016/2017
+Jayant uthale,Male,Information Technology,Second Year,Poor attendance,605,37.81,E,8,72.55,B,12.17,136.92,D,1,2016,2016/2017
+Natasha,Female,Computer Engineering,Second Year,Always late,508,41.5,D,14,62.86,D,23,136.33,D,1,2018,2018/2019
+Zarrin,Female,Information Technology,Second Year,Does not follow my lecture,574,37.87,E,10,64.91,C,12.58,136.31,D,1,2016,2016/2017
+siddharth Abhijeet Tulpule.,Male,Information Technology,Second Year,Always late and Does not follow my lecture,727,38.79,E,10,59.8,D,14.5,134.45,D,1,2016,2016/2017
+Dyanesh Sarawate.,Male,Electronics Engineering,Second Year,Disappointed performance,790,40.5,E,10,84.34,A,14,134.02,D,1,2018,2018/2019
+Shubham Ramesh Patil.,Male,Mechanical Engineering,First Year,Needs improvement,790,40.5,E,10,84.34,A,14,134.02,D,1,2018,2018/2019
+Yash Ramesh Mhatre.,Male,Electronics And Telecommunication Engineering,First Year,Does not follow my lecture and Very talkative,1158,43.78,D,20,69.37,C,11.72,133.68,D,1,2016,2016/2017
+Karan Ramesh Mhatre.,Male,Automobile Engineering,First Year,Always late and Does not follow my lecture,456,39,E,10,77.39,B,18,131.87,D,1,2018,2018/2019
+Riddhi k sonkar,Female,Information Technology,Second Year,Not attentive,378,43,D,12,78.89,B,9,130.36,D,1,2018,2018/2019
+Akhil kumar,Male,Information Technology,Second Year,Very talkative and Poor attendance,828,38.5,E,10,57.68,E,24,129.57,D,1,2018,2018/2019
+Patel Umar Faiz,Male,Information Technology,Second Year,Argues with teacher,419,44.5,D,12,52.5,FX,24,128.91,D,1,2018,2018/2019
+Kumudini,Female,Computer Engineering,Second Year,Very talkative,331,41,D,10,72.55,C,13,128.36,D,1,2018,2018/2019
+Pranjali gharat ,Female,Electronics And Telecommunication Engineering,Second Year,Does not follow my lecture and Very talkative,281,36,E,15,83.59,A,16,127.69,D,1,2018,2018/2019
+anchita lokhande,Female,Computer Engineering,Second Year,Not attentive,323,42,D,12,60.68,E,15,126.91,D,1,2018,2018/2019
+DEEPIKA DEEPAK PATIL ,Female,Computer Engineering,Second Year,Lagging Behind,356,43.5,D,15,63.07,D,11,126.11,D,1,2018,2018/2019
+Pradnya Bhoir,Female,Information Technology,Fourth Year,Lagging Behind,208,41.5,D,16,73.77,C,12,120.92,D,1,2018,2018/2019
+Mandar Patil,Male,Computer Engineering,Second Year,Does not follow my lecture and Very talkative,440,37,E,10,0,FX,18,54.04,E,1,2018,2018/2019
+Yadav Shweta Devram,Female,Computer Engineering,Fourth Year,Needs improvement,267,21.5,FX,0,0,FX,4,27.72,E,1,2018,2018/2019
+Nishchal,Male,Computer Engineering,Fourth Year,Argues with teacher,505,34.09,FX,20,73.11,B,9.41,186.69,E,1,2016,2016/2017
+Aniket dabde,Male,Computer Engineering,Third Year,Disappointed performance,303,34.69,FX,20,66.88,C,9.92,181.44,E,1,2016,2016/2017
+Kunal vijay thakur,Male,Information Technology,Second Year,Needs improvement,569,44.67,D,20,64.09,C,6.5,180.71,E,1,2016,2016/2017
+Minal Chudasama,Female,Information Technology,Second Year,Does not follow my lecture,518,31.93,E,12,73.45,A,7.7,142.75,E,1,2017,2017/2018
+Garima Yogesh Shukla,Female,Computer Engineering,Fourth Year,Always late and Does not follow my lecture,472,34.57,D,12,65.25,C,10,137.82,E,1,2017,2017/2018
+Kaustubh Nitin Deshmukh,Male,Mechanical Engineering,Second Year,Very talkative,286,30.37,E,8,75.47,A,17,135.6,E,1,2017,2017/2018
+James bond,Male,Information Technology,Second Year,Bunk lectuer,686,31.5,FX,9,84.5,B,32,135.2,E,1,2019,2019/2020
+Rohail,Male,Computer Engineering,Second Year,Always late and Does not follow my lecture,710,35,FX,12,89.21,B,19,130.86,E,1,2019,2019/2020
+Amaan Hakim,Male,Computer Engineering,Third Year,Not attentive,1259,31,FX,7,82.06,C,28,128.9,E,1,2019,2019/2020
+Khan Arbaz,Male,Computer Engineering,Second Year,Always late and Does not follow my lecture,682,34,FX,14,73.88,D,27,127.99,E,1,2019,2019/2020
+Rohan,Male,Computer Engineering,Second Year,Needs improvement,1026,33.7,FX,10,65.85,C,7.63,127.03,E,1,2016,2016/2017
+Ruturaj Atre,Male,Information Technology,Second Year,Does not follow my lecture and Very talkative,259,42.4,B,7,66.83,B,8,126.12,E,1,2017,2017/2018
+Tooba Kausar,Female,Computer Engineering,Second Year,Bunk lectuer,936,26,FX,10,92.24,A,26,124.68,E,1,2019,2019/2020
+Jayant uthale,Male,Information Technology,Second Year,Always late and Does not follow my lecture,314,34.5,FX,15,74.68,C,17,121.98,E,1,2018,2018/2019
+Natasha,Female,Computer Engineering,Second Year,Argues with teacher,373,34.5,FX,12,79.23,B,14,120.62,E,1,2018,2018/2019
+Zarrin,Female,Information Technology,Second Year,Very talkative and Poor attendance,524,37.5,E,8,73.09,C,10,118.72,E,1,2018,2018/2019
+siddharth Abhijeet Tulpule.,Male,Information Technology,Second Year,Disappointed performance,540,37.5,E,19,75.95,B,7,116.59,E,1,2018,2018/2019
+Dyanesh Sarawate.,Male,Electronics Engineering,Second Year,Argues with teacher and Bunk lectuer,289,37,E,16,66.61,D,11,115.75,E,1,2018,2018/2019
+Shubham Ramesh Patil.,Male,Mechanical Engineering,First Year,Bunk lectuer,419,31,FX,12,74.09,C,13,110.67,E,1,2018,2018/2019
+Yash Ramesh Mhatre.,Male,Electronics And Telecommunication Engineering,First Year,Does not follow my lecture,618,32.5,FX,16,83.06,B,30,134,E,1,2019,2019/2020
+Karan Ramesh Mhatre.,Male,Automobile Engineering,First Year,Argues with teacher and Bunk lectuer,442,28,FX,12,59.52,E,12,97.3,FX,0,2018,2018/2019
+Riddhi k sonkar,Female,Information Technology,Second Year,Argues with teacher,360,24,FX,0,82.33,C,7,96.4,FX,0,2019,2019/2020
+Akhil kumar,Male,Information Technology,Second Year,Poor attendance,598,31.55,E,0,43.88,FX,6.1,95.38,FX,0,2017,2017/2018
+Patel Umar Faiz,Male,Information Technology,Second Year,Needs improvement,645,16,FX,0,71.15,D,20,89.35,FX,0,2019,2019/2020
+Kumudini,Female,Computer Engineering,Second Year,Argues with teacher and Bunk lectuer,298,25.5,FX,10,58.32,E,9,88.7,FX,0,2018,2018/2019
+Pranjali gharat ,Female,Electronics And Telecommunication Engineering,Second Year,Needs improvement,548,53,B,20,0,FX,0,88.33,FX,0,2019,2019/2020
+anchita lokhande,Female,Computer Engineering,Second Year,Needs improvement and Not attentive,614,48.33,C,0,0,FX,18.33,76.32,FX,0,2016,2016/2017
+DEEPIKA DEEPAK PATIL ,Female,Computer Engineering,Second Year,Argues with teacher and Bunk lectuer,608,50.93,B,0,0,FX,16.6,76.19,FX,0,2016,2016/2017
+Pradnya Bhoir,Female,Information Technology,Fourth Year,Bunk lectuer,286,47.2,C,0,0,FX,15.78,72.33,FX,0,2016,2016/2017
+Mandar Patil,Male,Computer Engineering,Second Year,Argues with teacher,369,39.24,E,0,0,FX,9.23,71.7,FX,0,2016,2016/2017
+Yadav Shweta Devram,Female,Computer Engineering,Fourth Year,Not attentive,434,41.87,D,0,0,FX,18.33,70.17,FX,0,2016,2016/2017
+Nishchal,Male,Computer Engineering,Fourth Year,Needs improvement and Not attentive,469,42.58,D,0,0,FX,16.67,68.95,FX,0,2016,2016/2017
+Aniket dabde,Male,Computer Engineering,Third Year,Needs improvement and Not attentive,487,47.2,C,0,0,FX,12.58,68.68,FX,0,2016,2016/2017
+Kunal vijay thakur,Male,Information Technology,Second Year,Disappointed performance,545,39.6,E,0,0,FX,15.56,64.85,FX,0,2016,2016/2017
+Minal Chudasama,Female,Information Technology,Second Year,Lagging Behind,313,18.5,FX,0,22.5,FX,10,61.99,FX,0,2018,2018/2019
+Garima Yogesh Shukla,Female,Computer Engineering,Fourth Year,Very talkative,334,0,FX,0,0,FX,9.2,60.14,FX,0,2017,2017/2018
+Kaustubh Nitin Deshmukh,Male,Mechanical Engineering,Second Year,Bunk lectuer,691,38.49,E,0,0,FX,11.67,59.36,FX,0,2016,2016/2017
+James bond,Male,Information Technology,Second Year,Does not follow my lecture,250,16,FX,0,24.48,FX,11,58.02,FX,0,2018,2018/2019
+Rohail,Male,Computer Engineering,Second Year,Argues with teacher,204,0,FX,0,0,FX,12.4,56.96,FX,0,2017,2017/2018
+Amaan Hakim,Male,Computer Engineering,Third Year,Argues with teacher and Bunk lectuer,624,36.93,E,0,0,FX,9.83,55.8,FX,0,2016,2016/2017
+Khan Arbaz,Male,Computer Engineering,Second Year,Argues with teacher and Bunk lectuer,177,0,FX,0,0,FX,23,54.6,FX,0,2017,2017/2018
+Rohan,Male,Computer Engineering,Second Year,Argues with teacher,1198,34.73,FX,0,0,FX,10.28,54.21,FX,0,2016,2016/2017
+Ruturaj Atre,Male,Information Technology,Second Year,Very talkative and Poor attendance,470,41.22,D,0,0,FX,11.22,52.9,FX,0,2016,2016/2017
+Tooba Kausar,Female,Computer Engineering,Second Year,Bunk lectuer,463,31.52,FX,0,0,FX,4.19,52.07,FX,0,2016,2016/2017
+Jayant uthale,Male,Information Technology,Second Year,Needs improvement,360,34,FX,12,0,FX,13,47.18,FX,0,2018,2018/2019
+Natasha,Female,Computer Engineering,Second Year,Bunk lectuer,13,32.36,FX,0,0,FX,0,46.11,FX,0,2016,2016/2017
+Zarrin,Female,Information Technology,Second Year,Argues with teacher,448,24,E,0,0,FX,11,36.59,FX,0,2018,2018/2019
+siddharth Abhijeet Tulpule.,Male,Information Technology,Second Year,Argues with teacher and Bunk lectuer,323,0,FX,0,0,FX,8.1,36.5,FX,0,2017,2017/2018
+Dyanesh Sarawate.,Male,Electronics Engineering,Second Year,Argues with teacher and Bunk lectuer,522,33,FX,0,0,FX,0,33.09,FX,0,2016,2016/2017
+Shubham Ramesh Patil.,Male,Mechanical Engineering,First Year,Needs improvement and Not attentive,204,20.5,FX,0,0,FX,2,22.44,FX,0,2018,2018/2019
+Yash Ramesh Mhatre.,Male,Electronics And Telecommunication Engineering,First Year,Argues with teacher,479,7,FX,0,0,FX,10,21.67,FX,0,2019,2019/2020
+Karan Ramesh Mhatre.,Male,Automobile Engineering,First Year,Not attentive,267,7,FX,0,0,FX,10,21.67,FX,0,2019,2019/2020
+Riddhi k sonkar,Female,Information Technology,Second Year,Bunk lectuer,79,0,FX,0,0,FX,12,20.52,FX,0,2016,2016/2017
+Akhil kumar,Male,Information Technology,Second Year,Very talkative and Poor attendance,79,0,FX,0,0,FX,12,20.52,FX,0,2016,2016/2017
+Patel Umar Faiz,Male,Information Technology,Second Year,Argues with teacher and Bunk lectuer,179,11,FX,0,0,FX,12,20.48,FX,0,2018,2018/2019
+Kumudini,Female,Computer Engineering,Second Year,Poor attendance,537,42.27,D,0,52.29,E,8.58,166.9,FX,0,2016,2016/2017
+Pranjali gharat ,Female,Electronics And Telecommunication Engineering,Second Year,Argues with teacher,1079,36.5,E,5,56.25,FX,25,119.58,FX,0,2019,2019/2020
+anchita lokhande,Female,Computer Engineering,Second Year,Does not follow my lecture and Very talkative,173,41,D,12,83.16,B,0,118.23,FX,0,2019,2019/2020
+DEEPIKA DEEPAK PATIL ,Female,Computer Engineering,Second Year,Does not follow my lecture and Very talkative,1007,27,FX,8,63.19,E,34,116.92,FX,0,2019,2019/2020
+Pradnya Bhoir,Female,Information Technology,Fourth Year,Does not follow my lecture and Very talkative,918,32,FX,12,65.97,E,23,115.92,FX,0,2019,2019/2020
+Mandar Patil,Male,Computer Engineering,Second Year,Argues with teacher,635,28,FX,7,92.33,A,12,114.06,FX,0,2019,2019/2020
+Yadav Shweta Devram,Female,Computer Engineering,Fourth Year,Does not follow my lecture and Very talkative,151,0,FX,0,0,FX,10,17.1,FX,0,2016,2016/2017
+Nishchal,Male,Computer Engineering,Fourth Year,Does not follow my lecture,18,0,FX,0,0,FX,5,8.55,FX,0,2016,2016/2017
+Aniket dabde,Male,Computer Engineering,Third Year,Bunk lectuer,527,0,FX,0,0,FX,26,26,FX,0,2019,2019/2020
+Kunal vijay thakur,Male,Information Technology,Second Year,Does not follow my lecture and Very talkative,78,0,FX,0,0,FX,18,21,FX,0,2017,2017/2018
+,,,,Disappointed performance,603,0,FX,0,0,FX,16,16,FX,0,2019,2019/2020
+,,,,Argues with teacher,340,0,FX,0,0,FX,0,0,FX,0,2016,2016/2017
+,,,,Bunk lectuer,429,0,FX,0,0,FX,0,0,FX,0,2016,2016/2017
+,,,,Needs improvement,26,0,FX,0,0,FX,0,0,FX,0,2018,2018/2019
+,,,,Lagging Behind,126,0,FX,0,0,FX,0,0,FX,0,2018,2018/2019
+,,,,Very talkative,28,0,0,0,0,0,0,0,FX,0,2019,2019/2020
+siddharth Abhijeet Tulpule.,Male,Information Technology,Second Year,Disappointed performance,540,37.5,E,19,75.95,B,7,116.59,E,1,2018,2018/2019
+Dyanesh Sarawate.,Male,Electronics Engineering,Second Year,Argues with teacher and Bunk lectuer,289,37,E,16,66.61,D,11,115.75,E,1,2018,2018/2019
+Shubham Ramesh Patil.,Male,Mechanical Engineering,First Year,Bunk lectuer,419,31,FX,12,74.09,C,13,110.67,E,1,2018,2018/2019
+Yash Ramesh Mhatre.,Male,Electronics And Telecommunication Engineering,First Year,Does not follow my lecture,618,32.5,FX,16,83.06,B,30,134,E,1,2019,2019/2020
+Karan Ramesh Mhatre.,Male,Automobile Engineering,First Year,Argues with teacher and Bunk lectuer,442,28,FX,12,59.52,E,12,97.3,FX,0,2018,2018/2019
+Riddhi k sonkar,Female,Information Technology,Second Year,Argues with teacher,360,24,FX,0,82.33,C,7,96.4,FX,0,2019,2019/2020
+Akhil kumar,Male,Information Technology,Second Year,Poor attendance,598,31.55,E,0,43.88,FX,6.1,95.38,FX,0,2017,2017/2018
+Patel Umar Faiz,Male,Information Technology,Second Year,Needs improvement,645,16,FX,0,71.15,D,20,89.35,FX,0,2019,2019/2020
+Kumudini,Female,Computer Engineering,Second Year,Argues with teacher and Bunk lectuer,298,25.5,FX,10,58.32,E,9,88.7,FX,0,2018,2018/2019
+Pranjali gharat ,Female,Electronics And Telecommunication Engineering,Second Year,Needs improvement,548,53,B,20,0,FX,0,88.33,FX,0,2019,2019/2020
+anchita lokhande,Female,Computer Engineering,Second Year,Needs improvement and Not attentive,614,48.33,C,0,0,FX,18.33,76.32,FX,0,2016,2016/2017
+DEEPIKA DEEPAK PATIL ,Female,Computer Engineering,Second Year,Argues with teacher and Bunk lectuer,608,50.93,B,0,0,FX,16.6,76.19,FX,0,2016,2016/2017
+Pradnya Bhoir,Female,Information Technology,Fourth Year,Bunk lectuer,286,47.2,C,0,0,FX,15.78,72.33,FX,0,2016,2016/2017
+Mandar Patil,Male,Computer Engineering,Second Year,Argues with teacher,369,39.24,E,0,0,FX,9.23,71.7,FX,0,2016,2016/2017
+Yadav Shweta Devram,Female,Computer Engineering,Fourth Year,Not attentive,434,41.87,D,0,0,FX,18.33,70.17,FX,0,2016,2016/2017
+Nishchal,Male,Computer Engineering,Fourth Year,Needs improvement and Not attentive,469,42.58,D,0,0,FX,16.67,68.95,FX,0,2016,2016/2017
+Aniket dabde,Male,Computer Engineering,Third Year,Needs improvement and Not attentive,487,47.2,C,0,0,FX,12.58,68.68,FX,0,2016,2016/2017
+Kunal vijay thakur,Male,Information Technology,Second Year,Disappointed performance,545,39.6,E,0,0,FX,15.56,64.85,FX,0,2016,2016/2017
+Minal Chudasama,Female,Information Technology,Second Year,Lagging Behind,313,18.5,FX,0,22.5,FX,10,61.99,FX,0,2018,2018/2019
+Garima Yogesh Shukla,Female,Computer Engineering,Fourth Year,Very talkative,334,0,FX,0,0,FX,9.2,60.14,FX,0,2017,2017/2018
+Kaustubh Nitin Deshmukh,Male,Mechanical Engineering,Second Year,Bunk lectuer,691,38.49,E,0,0,FX,11.67,59.36,FX,0,2016,2016/2017
+James bond,Male,Information Technology,Second Year,Does not follow my lecture,250,16,FX,0,24.48,FX,11,58.02,FX,0,2018,2018/2019
+Rohail,Male,Computer Engineering,Second Year,Argues with teacher,204,0,FX,0,0,FX,12.4,56.96,FX,0,2017,2017/2018
+Amaan Hakim,Male,Computer Engineering,Third Year,Argues with teacher and Bunk lectuer,624,36.93,E,0,0,FX,9.83,55.8,FX,0,2016,2016/2017
+Khan Arbaz,Male,Computer Engineering,Second Year,Argues with teacher and Bunk lectuer,177,0,FX,0,0,FX,23,54.6,FX,0,2017,2017/2018
+Rohan,Male,Computer Engineering,Second Year,Argues with teacher,1198,34.73,FX,0,0,FX,10.28,54.21,FX,0,2016,2016/2017
+Ruturaj Atre,Male,Information Technology,Second Year,Very talkative and Poor attendance,470,41.22,D,0,0,FX,11.22,52.9,FX,0,2016,2016/2017
+Tooba Kausar,Female,Computer Engineering,Second Year,Bunk lectuer,463,31.52,FX,0,0,FX,4.19,52.07,FX,0,2016,2016/2017
+Jayant uthale,Male,Information Technology,Second Year,Needs improvement,360,34,FX,12,0,FX,13,47.18,FX,0,2018,2018/2019
+Natasha,Female,Computer Engineering,Second Year,Bunk lectuer,13,32.36,FX,0,0,FX,0,46.11,FX,0,2016,2016/2017
+Zarrin,Female,Information Technology,Second Year,Argues with teacher,448,24,E,0,0,FX,11,36.59,FX,0,2018,2018/2019
+siddharth Abhijeet Tulpule.,Male,Information Technology,Second Year,Argues with teacher and Bunk lectuer,323,0,FX,0,0,FX,8.1,36.5,FX,0,2017,2017/2018
+Dyanesh Sarawate.,Male,Electronics Engineering,Second Year,Argues with teacher and Bunk lectuer,522,33,FX,0,0,FX,0,33.09,FX,0,2016,2016/2017
+Shubham Ramesh Patil.,Male,Mechanical Engineering,First Year,Needs improvement and Not attentive,204,20.5,FX,0,0,FX,2,22.44,FX,0,2018,2018/2019
+Yash Ramesh Mhatre.,Male,Electronics And Telecommunication Engineering,First Year,Argues with teacher,479,7,FX,0,0,FX,10,21.67,FX,0,2019,2019/2020
+Karan Ramesh Mhatre.,Male,Automobile Engineering,First Year,Not attentive,267,7,FX,0,0,FX,10,21.67,FX,0,2019,2019/2020
+Riddhi k sonkar,Female,Information Technology,Second Year,Bunk lectuer,79,0,FX,0,0,FX,12,20.52,FX,0,2016,2016/2017
+Akhil kumar,Male,Information Technology,Second Year,Very talkative and Poor attendance,79,0,FX,0,0,FX,12,20.52,FX,0,2016,2016/2017
+Patel Umar Faiz,Male,Information Technology,Second Year,Argues with teacher and Bunk lectuer,179,11,FX,0,0,FX,12,20.48,FX,0,2018,2018/2019
+Kumudini,Female,Computer Engineering,Second Year,Poor attendance,537,42.27,D,0,52.29,E,8.58,166.9,FX,0,2016,2016/2017
+Pranjali gharat ,Female,Electronics And Telecommunication Engineering,Second Year,Argues with teacher,1079,36.5,E,5,56.25,FX,25,119.58,FX,0,2019,2019/2020
+anchita lokhande,Female,Computer Engineering,Second Year,Does not follow my lecture and Very talkative,173,41,D,12,83.16,B,0,118.23,FX,0,2019,2019/2020
+DEEPIKA DEEPAK PATIL ,Female,Computer Engineering,Second Year,Does not follow my lecture and Very talkative,1007,27,FX,8,63.19,E,34,116.92,FX,0,2019,2019/2020
+Pradnya Bhoir,Female,Information Technology,Fourth Year,Does not follow my lecture and Very talkative,918,32,FX,12,65.97,E,23,115.92,FX,0,2019,2019/2020
+Mandar Patil,Male,Computer Engineering,Second Year,Argues with teacher,635,28,FX,7,92.33,A,12,114.06,FX,0,2019,2019/2020
+Yadav Shweta Devram,Female,Computer Engineering,Fourth Year,Does not follow my lecture and Very talkative,151,0,FX,0,0,FX,10,17.1,FX,0,2016,2016/2017
+Nishchal,Male,Computer Engineering,Fourth Year,Does not follow my lecture,18,0,FX,0,0,FX,5,8.55,FX,0,2016,2016/2017
+Aniket dabde,Male,Computer Engineering,Third Year,Bunk lectuer,527,0,FX,0,0,FX,26,26,FX,0,2019,2019/2020
+Kunal vijay thakur,Male,Information Technology,Second Year,Does not follow my lecture and Very talkative,78,0,FX,0,0,FX,18,21,FX,0,2017,2017/2018
+Dyanesh Sarawate.,Male,Electronics Engineering,Second Year,Argues with teacher and Bunk lectuer,522,33,FX,0,0,FX,0,33.09,FX,0,2016,2016/2017
+Shubham Ramesh Patil.,Male,Mechanical Engineering,First Year,Needs improvement and Not attentive,204,20.5,FX,0,0,FX,2,22.44,FX,0,2018,2018/2019
+Yash Ramesh Mhatre.,Male,Electronics And Telecommunication Engineering,First Year,Argues with teacher,479,7,FX,0,0,FX,10,21.67,FX,0,2019,2019/2020
+Karan Ramesh Mhatre.,Male,Automobile Engineering,First Year,Not attentive,267,7,FX,0,0,FX,10,21.67,FX,0,2019,2019/2020
+Riddhi k sonkar,Female,Information Technology,Second Year,Bunk lectuer,79,0,FX,0,0,FX,12,20.52,FX,0,2016,2016/2017
+Akhil kumar,Male,Information Technology,Second Year,Very talkative and Poor attendance,79,0,FX,0,0,FX,12,20.52,FX,0,2016,2016/2017
+Patel Umar Faiz,Male,Information Technology,Second Year,Argues with teacher and Bunk lectuer,179,11,FX,0,0,FX,12,20.48,FX,0,2018,2018/2019
+Kumudini,Female,Computer Engineering,Second Year,Poor attendance,537,42.27,D,0,52.29,E,8.58,166.9,FX,0,2016,2016/2017
+Pranjali gharat ,Female,Electronics And Telecommunication Engineering,Second Year,Argues with teacher,1079,36.5,E,5,56.25,FX,25,119.58,FX,0,2019,2019/2020
+anchita lokhande,Female,Computer Engineering,Second Year,Does not follow my lecture and Very talkative,173,41,D,12,83.16,B,0,118.23,FX,0,2019,2019/2020
+DEEPIKA DEEPAK PATIL ,Female,Computer Engineering,Second Year,Does not follow my lecture and Very talkative,1007,27,FX,8,63.19,E,34,116.92,FX,0,2019,2019/2020
+Pradnya Bhoir,Female,Information Technology,Fourth Year,Does not follow my lecture and Very talkative,918,32,FX,12,65.97,E,23,115.92,FX,0,2019,2019/2020
+Mandar Patil,Male,Computer Engineering,Second Year,Argues with teacher,635,28,FX,7,92.33,A,12,114.06,FX,0,2019,2019/2020
+Yadav Shweta Devram,Female,Computer Engineering,Fourth Year,Does not follow my lecture and Very talkative,151,0,FX,0,0,FX,10,17.1,FX,0,2016,2016/2017
+Nishchal,Male,Computer Engineering,Fourth Year,Does not follow my lecture,18,0,FX,0,0,FX,5,8.55,FX,0,2016,2016/2017
+Aniket dabde,Male,Computer Engineering,Third Year,Bunk lectuer,527,0,FX,0,0,FX,26,26,FX,0,2019,2019/2020
+Kunal vijay thakur,Male,Information Technology,Second Year,Does not follow my lecture and Very talkative,78,0,FX,0,0,FX,18,21,FX,0,2017,2017/2018
+Dyanesh Sarawate.,Male,Electronics Engineering,Second Year,Argues with teacher and Bunk lectuer,522,33,FX,0,0,FX,0,33.09,FX,0,2016,2016/2017
+Shubham Ramesh Patil.,Male,Mechanical Engineering,First Year,Needs improvement and Not attentive,204,20.5,FX,0,0,FX,2,22.44,FX,0,2018,2018/2019
+Yash Ramesh Mhatre.,Male,Electronics And Telecommunication Engineering,First Year,Argues with teacher,479,7,FX,0,0,FX,10,21.67,FX,0,2019,2019/2020
+Karan Ramesh Mhatre.,Male,Automobile Engineering,First Year,Not attentive,267,7,FX,0,0,FX,10,21.67,FX,0,2019,2019/2020
+Riddhi k sonkar,Female,Information Technology,Second Year,Bunk lectuer,79,0,FX,0,0,FX,12,20.52,FX,0,2016,2016/2017
+Akhil kumar,Male,Information Technology,Second Year,Very talkative and Poor attendance,79,0,FX,0,0,FX,12,20.52,FX,0,2016,2016/2017
+Patel Umar Faiz,Male,Information Technology,Second Year,Argues with teacher and Bunk lectuer,179,11,FX,0,0,FX,12,20.48,FX,0,2018,2018/2019
+Kumudini,Female,Computer Engineering,Second Year,Poor attendance,537,42.27,D,0,52.29,E,8.58,166.9,FX,0,2016,2016/2017
+Pranjali gharat ,Female,Electronics And Telecommunication Engineering,Second Year,Argues with teacher,1079,36.5,E,5,56.25,FX,25,119.58,FX,0,2019,2019/2020
+anchita lokhande,Female,Computer Engineering,Second Year,Does not follow my lecture and Very talkative,173,41,D,12,83.16,B,0,118.23,FX,0,2019,2019/2020
+DEEPIKA DEEPAK PATIL ,Female,Computer Engineering,Second Year,Does not follow my lecture and Very talkative,1007,27,FX,8,63.19,E,34,116.92,FX,0,2019,2019/2020
+Pradnya Bhoir,Female,Information Technology,Fourth Year,Does not follow my lecture and Very talkative,918,32,FX,12,65.97,E,23,115.92,FX,0,2019,2019/2020
+Mandar Patil,Male,Computer Engineering,Second Year,Argues with teacher,635,28,FX,7,92.33,A,12,114.06,FX,0,2019,2019/2020
+Yadav Shweta Devram,Female,Computer Engineering,Fourth Year,Does not follow my lecture and Very talkative,151,0,FX,0,0,FX,10,17.1,FX,0,2016,2016/2017
+Nishchal,Male,Computer Engineering,Fourth Year,Does not follow my lecture,18,0,FX,0,0,FX,5,8.55,FX,0,2016,2016/2017
+Aniket dabde,Male,Computer Engineering,Third Year,Bunk lectuer,527,0,FX,0,0,FX,26,26,FX,0,2019,2019/2020
+Kunal vijay thakur,Male,Information Technology,Second Year,Does not follow my lecture and Very talkative,78,0,FX,0,0,FX,18,21,FX,0,2017,2017/2018
